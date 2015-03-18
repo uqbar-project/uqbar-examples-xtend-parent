@@ -12,6 +12,12 @@
 		<version>1.1</version>
 	</parent>
 
+	<properties>
+		<scm.gitServer>scm:git:https://github.com/uqbar-project</scm.gitServer>
+		<scm.gitRepository>uqbar-examples-xtend-parent</scm.gitRepository>
+		<uqbar.repo.url>ftp://ftp.uqbar-wiki.org</uqbar.repo.url>
+	</properties>
+
 	<build>
 		<plugins>
 			<plugin>
